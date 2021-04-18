@@ -1,3 +1,2 @@
 # hello-world
-this is main branch, I want to push into edit branch
- second time
+this is local main branch, I want to merge into main branch
