@@ -1,2 +1,4 @@
 # hello-world
-this is an edit version 
+A simple new repository
+
+Hello everyone, I've had burgers on the moon.
